@@ -21,5 +21,5 @@ if uploaded_file is not None:
     st.image(image, caption='Uploaded image.', use_column_width=True)
     st.write("")
     with st.spinner('Identifying...'):
-        label = image_classification(image, r'C:\Users\BCL\Documents\dog\my_dog_model.h5')
+        label = image_classification(image, 'my_dog_model.h5')
     st.info(label)
