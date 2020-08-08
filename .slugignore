@@ -1,1 +1,1 @@
-heroku config:set BUNDLE_WITHOUT="scipy" --app app.py
+heroku config:set BUNDLE_WITHOUT="scipy" --app dogs-breed
