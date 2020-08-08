@@ -1,1 +1,1 @@
-heroku config:set BUNDLE_WITHOUT="scipy:protobuf:botocore:pydeck:pandas:pyarrow:notebook:jedi:pyzmq"
+heroku config:set BUNDLE_WITHOUT="scipy"
