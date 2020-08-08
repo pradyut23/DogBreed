@@ -1,1 +1,1 @@
-heroku config:set BUNDLE_WITHOUT="scipy"
+heroku config:set BUNDLE_WITHOUT="scipy" --app app.py
