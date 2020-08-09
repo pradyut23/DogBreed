@@ -1,1 +1,0 @@
-heroku config:set BUNDLE_WITHOUT="scipy" --app dogs-breed
