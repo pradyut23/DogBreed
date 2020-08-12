@@ -15,7 +15,7 @@ st.write("")
 st.write("")
 st.write("")
 st.write("Choose a dog image...")
-uploaded_file = st.file_uploader("", type=["jpg","png"])
+uploaded_file = st.file_uploader("", type=["jpg","png","jpeg"])
 if uploaded_file is not None:
     image = Image.open(uploaded_file)
     st.image(image, caption='Uploaded image.', use_column_width=True)
