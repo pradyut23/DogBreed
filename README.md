@@ -1,4 +1,4 @@
-The web app can be found at http://35.193.231.84
+The web app can be found at http://104.154.194.125
 
 # Dog-Breed
 A dog-breed classifier using the Stanford Dog Breed dataset.
