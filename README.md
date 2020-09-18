@@ -26,7 +26,7 @@ Validation accuracy of around **80%** is achieved for the final model.
 
 # Web-App
 The web-app is designed on Streamlit and deployed using GCP
-It can be found at http://35.193.231.84
+It can be found at http://104.154.194.125
 
 # Conclusion
 * Many more layers are needed over the transfer model as they were not designed on that specific task.
